@@ -27,6 +27,11 @@ pytest -v
 ## Questions:
 
 Quesrion 1: Run endpoint and Run ecommerce database
+
 Question 5: Run longest commen subsequence
+
 Question 6: Run test cases that exists in test_user_registeration.py
+
 Question 7: Open api_docs.docx
+
+
