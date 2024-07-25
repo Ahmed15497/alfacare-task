@@ -1,30 +1,30 @@
 # Alfacare-task
 
-To activate virtual enviroment run:
+## To activate virtual enviroment run:
 
 source myenv/bin/activate
 
-Run endpoint:
+## Run endpoint:
 
 python main.py
 
-Run ecommerce database:
+## Run ecommerce database:
 
 python ecommerce.py
 
-Run longest commen subsequence:
+## Run longest commen subsequence:
 
 python lcs.py
 
-Consume API using python:
+## Consume API using python:
 
 python api_consume.py
 
-Run test cases that exists in test_user_registeration.py:
+## Run test cases that exists in test_user_registeration.py:
 
 pytest -v
 
-Questions:
+## Questions:
 
 Quesrion 1: Run endpoint and Run ecommerce database
 Question 5: Run longest commen subsequence
