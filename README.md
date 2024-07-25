@@ -6,9 +6,13 @@ source myenv/bin/activate
 
 ## Run endpoint:
 
+provide your database cred.
+
 python main.py
 
 ## Run ecommerce database:
+
+provide your database cred.
 
 python ecommerce.py
 
