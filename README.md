@@ -30,7 +30,7 @@ pytest -v
 
 ## Questions:
 
-Quesrion 1: Run endpoint and Run ecommerce database
+Quesrion 1: Run endpoint, Run ecommerce database and inspect er.png
 
 Question 5: Run longest commen subsequence
 
